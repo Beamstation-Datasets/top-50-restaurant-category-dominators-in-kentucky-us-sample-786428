@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
+  "config_name": "Top 50 Restaurant Category Dominators in Kentucky, US",
+  "export_job_id": "59afc677-98db-4cd3-bd1a-6cf749328073",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 786428,
+  "location_name": "Kentucky",
+  "location_type": "state",
+  "repo_name": "top-50-restaurant-category-dominators-in-kentucky-us-sample-786428",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/786428/beamstation_786428_restaurants-us-ky_SAMPLE_DIST.csv",
+  "sample_pct": 9.09,
+  "sample_records": 3,
+  "sample_sha256": "1380a6c69e8dfd435daef115adcfd43cdc6fca2e0f61496a09aa55931a18077c",
+  "sample_size_bytes": 28957,
+  "total_records": 33,
+  "updated_at": "2026-04-01T00:24:50.423896+00:00"
+}
