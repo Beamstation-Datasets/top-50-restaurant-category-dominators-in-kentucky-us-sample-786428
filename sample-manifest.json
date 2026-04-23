@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4c5b42db-d3d9-49dd-9226-813f926ce1fc",
+  "export_job_id": "8ac79aa7-e0f6-477c-9372-86ed7ac9b18d",
   "id_short": 786428,
-  "published_at": "2026-04-18T07:19:07Z",
+  "published_at": "2026-04-23T07:10:38Z",
   "repo_name": "top-50-restaurant-category-dominators-in-kentucky-us-sample-786428",
   "sample_asset_name": "beamstation_786428_restaurants-us-ky_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/786428/beamstation_786428_restaurants-us-ky_SAMPLE_DIST.csv",
-  "sample_records": 5,
-  "sample_sha256": "ef3199a9cd39ec6b46d209ce62549fb3c0aaeead326e6a5da9dda0ed73b9671f",
-  "sample_size_bytes": 38016,
-  "total_records": 51
+  "sample_records": 8,
+  "sample_sha256": "9cd1a669860110abb0367a68243aee56229e3e858b7ee790ff5667d7c4f74601",
+  "sample_size_bytes": 49724,
+  "total_records": 83
 }
