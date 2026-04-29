@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Kentucky, US
 
-> Free BeamStation sample export with 8 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `786428` |
 | Location | Kentucky |
 | Category | Restaurants |
-| Full dataset size | 83 records |
-| Free sample size | 8 records (9.64%) |
-| Last export | 2026-04-22T07:07:48.974410+00:00 |
+| Full dataset size | 70 records |
+| Free sample size | 7 records (10.0%) |
+| Last export | 2026-04-29T09:10:03.750281+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-kentucky-us-sample-786428/releases/download/sample-latest/beamstation_786428_restaurants-us-ky_SAMPLE_DIST.csv) |
 
 ## What is in this sample
